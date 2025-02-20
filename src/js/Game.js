@@ -13,7 +13,7 @@ export class Game {
     });
 
     const img = document.createElement("img");
-    img.src = "../img/goblin.png";
+    img.src = "2dbd01ce16c0fa83cb67.png";
     img.alt = "Goblin";
 
     let rand;

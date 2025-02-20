@@ -46,5 +46,5 @@
     "global": "^4.4.0",
     "yarn": "^1.22.22"
   },
-  "repository": "git@github.com:moving1986/ajh-env.git"
+  "repository": "git@github.com:moving1986/ajh-dom.git"
 }
